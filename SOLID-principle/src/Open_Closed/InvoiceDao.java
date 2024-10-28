@@ -17,5 +17,5 @@ import Single_Responsibility.Invoice;
 //}
 
 interface InvoiceDao{
-    public void save(Invoice invoice)
+    public void save(Invoice invoice);
 }
