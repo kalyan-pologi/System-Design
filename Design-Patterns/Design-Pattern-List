@@ -1,0 +1,9 @@
+Observer Pattern: Notifies multiple observers when the subject's state changes.
+Strategy Pattern: Switches between algorithms at runtime within interchangeable strategies.
+Abstract Factory Pattern: Creates related object families without specifying exact classes.
+Builder Pattern: Builds complex objects step-by-step for flexibility.
+Factory Pattern: Creates objects via a common interface without exposing logic.
+Prototype Pattern: Clones existing objects for new instances.
+Singleton Pattern: Ensures only one instance of a class exists globally.
+Adapter Pattern: Makes incompatible interfaces work together.
+Decorator Pattern: Adds new behavior to objects dynamically without modifying their structure.
