@@ -2,9 +2,13 @@ package Model1;
 
 public class PlayingPiece {
 
-    public PieceType pieceType;
+    private PieceType pieceType;
 
-    PlayingPiece(PieceType pieceType){
+    public PlayingPiece(PieceType pieceType){
         this.pieceType = pieceType;
+    }
+
+    public PieceType getPieceType() {
+        return pieceType;
     }
 }

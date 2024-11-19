@@ -2,17 +2,24 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Design-Patterns/B_Chain_Of_Responsibility_Pattern/B_Chain_Of_Responsibility_Pattern.iml" filepath="$PROJECT_DIR$/Design-Patterns/B_Chain_Of_Responsibility_Pattern/B_Chain_Of_Responsibility_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Patterns/B_Observer_Pattern/B_Observer_Pattern.iml" filepath="$PROJECT_DIR$/Design-Patterns/B_Observer_Pattern/B_Observer_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Patterns/B_State_Pattern/B_State_Pattern.iml" filepath="$PROJECT_DIR$/Design-Patterns/B_State_Pattern/B_State_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Patterns/B_Strategy_Pattern/B_Strategy_Pattern.iml" filepath="$PROJECT_DIR$/Design-Patterns/B_Strategy_Pattern/B_Strategy_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Patterns/B_Template_Pattern/B_Template_Pattern.iml" filepath="$PROJECT_DIR$/Design-Patterns/B_Template_Pattern/B_Template_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Patterns/C_Abstract_Factory_Pattern/C_Abstract_Factory_Pattern.iml" filepath="$PROJECT_DIR$/Design-Patterns/C_Abstract_Factory_Pattern/C_Abstract_Factory_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Patterns/C_Builder_Pattern/C_Builder_Pattern.iml" filepath="$PROJECT_DIR$/Design-Patterns/C_Builder_Pattern/C_Builder_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Patterns/C_Factory_Pattern/C_Factory_Pattern.iml" filepath="$PROJECT_DIR$/Design-Patterns/C_Factory_Pattern/C_Factory_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Patterns/C_Prototype_Pattern/C_Prototype_Pattern.iml" filepath="$PROJECT_DIR$/Design-Patterns/C_Prototype_Pattern/C_Prototype_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Patterns/C_Singleton_Pattern/C_Singleton_Pattern.iml" filepath="$PROJECT_DIR$/Design-Patterns/C_Singleton_Pattern/C_Singleton_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Patterns/Design-Patterns.iml" filepath="$PROJECT_DIR$/Design-Patterns/Design-Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Low-Level-Design/Parking-lot/Parking-lot.iml" filepath="$PROJECT_DIR$/Low-Level-Design/Parking-lot/Parking-lot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practice/Practice.iml" filepath="$PROJECT_DIR$/Practice/Practice.iml" />
       <module fileurl="file://$PROJECT_DIR$/SOLID-Principle/SOLID-Principle.iml" filepath="$PROJECT_DIR$/SOLID-Principle/SOLID-Principle.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Patterns/S_Adapator_Pattern/S_Adapator_Pattern.iml" filepath="$PROJECT_DIR$/Design-Patterns/S_Adapator_Pattern/S_Adapator_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/Design-Patterns/S_Decorator_Pattern/S_Decorator_Pattern.iml" filepath="$PROJECT_DIR$/Design-Patterns/S_Decorator_Pattern/S_Decorator_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Patterns/S_Facade_Pattern/S_Facade_Pattern.iml" filepath="$PROJECT_DIR$/Design-Patterns/S_Facade_Pattern/S_Facade_Pattern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Design-Patterns/S_Proxy_Pattern/S_Proxy_Pattern.iml" filepath="$PROJECT_DIR$/Design-Patterns/S_Proxy_Pattern/S_Proxy_Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/System Design.iml" filepath="$PROJECT_DIR$/System Design.iml" />
       <module fileurl="file://$PROJECT_DIR$/Low-Level-Design/Tic-Tac-Toe/Tic-Tac-Toe.iml" filepath="$PROJECT_DIR$/Low-Level-Design/Tic-Tac-Toe/Tic-Tac-Toe.iml" />
     </modules>

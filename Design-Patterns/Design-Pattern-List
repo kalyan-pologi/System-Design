@@ -1,9 +1,38 @@
-Observer Pattern: Notifies multiple observers when the subject's state changes.
-Strategy Pattern: Switches between algorithms at runtime within interchangeable strategies.
+Creation Patterns:
+Factory Pattern: Creates objects via a common interface without exposing the instantiation logic.
 Abstract Factory Pattern: Creates related object families without specifying exact classes.
-Builder Pattern: Builds complex objects step-by-step for flexibility.
-Factory Pattern: Creates objects via a common interface without exposing logic.
-Prototype Pattern: Clones existing objects for new instances.
+                          Provides an interface to create families of related objects without specifying concrete classes.
+Builder Pattern: Builds complex objects step-by-step for flexibility, separating construction from representation.
+Prototype Pattern: Creates new objects by cloning existing ones.
 Singleton Pattern: Ensures only one instance of a class exists globally.
-Adapter Pattern: Makes incompatible interfaces work together.
-Decorator Pattern: Adds new behavior to objects dynamically without modifying their structure.
+
+Structural Patterns:
+Adapter Pattern: Converts one interface into another to make incompatible classes work together.
+Decorator Pattern: Dynamically adds responsibilities to objects without altering their structure.
+Facade Pattern: Provides a simplified interface to a complex system.
+                Helps to hide the system complexity from the cleint.
+Proxy Pattern: A substitute object to control access to another object, adding extra functionality like caching or security checks.
+               The proxy class implements the same interface as the original object,
+               making it interchangeable with the real object, while adding extra behavior.
+Bridge Pattern: Separates an object’s abstraction from its implementation to allow independent changes.
+Composite Pattern: Treats individual objects and compositions of objects uniformly.
+                   Helps in scenarios where we have OBJECT inside OBJECT(tree like structure)
+Flyweight Pattern: Shares common objects to reduce memory usage.
+                   Helps to reduce memory usage by sharing data among multiple objects.
+
+Behavioral Patterns:
+Observer Pattern: Notifies multiple observers of changes in the subject’s state.
+Strategy Pattern: Selects algorithms at runtime from a family of interchangeable strategies.
+                  Switches between algorithms at runtime within interchangeable strategies.
+                  Selects algorithms dynamically at runtime.
+Chain of Responsibility Pattern: Passes requests along a chain of handlers until one handles it.
+                                 Allows multiple objects to handle a request without the sender needing to know which object will ultimately process it.
+State Pattern: Changes an object’s behavior when its internal state changes.
+Template Method Pattern: Defines the skeleton of an algorithm, allowing steps to be customized by subclasses.
+                         When you want all classes to follow specific steps to process the tasks but
+                         provide flexibility that each class can have their own logic in that specific step.
+Command Pattern: Encapsulates a request as an object to allow flexible command execution.
+Mediator Pattern: Centralizes communication between objects to reduce dependencies.
+Memento Pattern: Captures and restores an object’s state without exposing its details.
+Visitor Pattern: Separates algorithms from object structures by adding operations to objects without modifying them.
+Interpreter Pattern: Implements a language grammar to interpret expressions.
